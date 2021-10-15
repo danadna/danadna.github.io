@@ -18,6 +18,8 @@ header {
 
 #logo {
     margin: 5px;
+    width: 40px;
+    height: 40px;
 }
 
 nav {
@@ -61,8 +63,9 @@ p {
     margin-top: 0;    
 }
 
-#intro p{
+h3{
     font-size: 20px;
+    font-style: normal;
 }
 
 .separator {
@@ -82,4 +85,14 @@ hr {
 footer {
     text-align: center;
     margin-top: 1000px;
+}
+
+#hearth {
+    height: 20px;
+    margin: 0%;
+}
+
+#greenfox {
+    height: 20px;
+    margin: 0%;
 }
